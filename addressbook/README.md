@@ -49,7 +49,7 @@ Generate the web site
 
 * Extends Handler class to support more operations.
 
-* All commands are extended by an abstract command,logic handler function will execute the same several functions and don't need to know each implementation.So we can easily add new commands and avoid the if/else/else code.
+* It is better to write a command parser :)
 
 ### Plug-in ###
 
