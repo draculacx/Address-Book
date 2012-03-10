@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Maven">
+  <bannerLeft>
+    <name>Maven</name>
+    <src>http://maven.apache.org/images/apache-maven-project.png</src>
+    <href>http://maven.apache.org/</href>
+  </bannerLeft>
+  <bannerRight>
+    <src>http://maven.apache.org/images/maven-small.gif</src>
+  </bannerRight>
+  <body>
+    <links>
+      <item name="Apache" href="http://www.apache.org/" />
+    </links>
+    <menu name="Maven 3.0">
+      <item name="Introduction" href="index.html" />
+      <item name="General Information" href="about.html" />
+      <!--item name="APT Format" href="format.html" /> <item name="FAQ" href="faq.html" 
+        /> <item name="Xdoc Example" href="xdoc.html" /> <item name="About Me" href="#" 
+        / -->
+    </menu>
+    <menu ref="reports" />
+  </body>
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.1</version>
+  </skin>
+</project>

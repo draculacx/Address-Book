@@ -1,0 +1,11 @@
+ -----
+ The main page
+ -----
+ 
+  The main page
+ 
++------------------------------------------------------------------------+
+ Introduction & Usage
+ * 1. This MAVEN project site can only be deployed in MAVEN 3.0 due to the compatibility
+ * 2. You can input "mvn clean site" to generate the web page
++------------------------------------------------------------------------+

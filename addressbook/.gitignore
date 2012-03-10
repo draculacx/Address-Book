@@ -1,0 +1,12 @@
+#generated files
+target/
+
+
+
+#log files
+*.log
+
+#eclipse file
+.project
+.settings/
+.classpath
